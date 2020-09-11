@@ -26,7 +26,7 @@ SECRET_KEY = '(4u!w(v0y_*0kw6i4)dffb70zv%@%m-yvxa-0azcs=!0kid+pk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.balex.tk']
+ALLOWED_HOSTS = ['127.0.0.1', 'qlexio.pythonanywhere.com']
 
 
 # Application definition
